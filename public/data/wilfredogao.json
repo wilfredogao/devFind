@@ -1,0 +1,13 @@
+{
+  "name": "Wilfredo Gao",
+  "location": "Gainesville, Florida",
+  "bio": "Computer Science student at the University of Florida",
+  "avatar": "https://github.com/wilfredogao.png",
+  "portfolio": "https://github.com/wilfredogao",
+  "skills": ["Python", "C++", "MATLAB", "React.js", "Node.js", "JavaScript", "Visual Studio", "Git"],
+  "social": {
+    "GitHub": "https://github.com/wilfredogao",
+    "Twitter": "",
+    "LinkedIn": "https://www.linkedin.com/in/wilfredogao/"
+  }
+}
